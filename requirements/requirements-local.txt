@@ -26,4 +26,4 @@ colorama==0.4.4
     # via
     #   -c requirements/requirements.txt
     #   septentrion
-django==3.2.17
+django==5.0.2
