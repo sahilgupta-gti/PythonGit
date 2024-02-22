@@ -1,4 +1,4 @@
-charset-normalizer==2.0.12
+charset-normalizer==3.3.2
     # via
     #   -c requirements/requirements.txt
     #   requests
