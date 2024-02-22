@@ -8,7 +8,7 @@ updates:
     directory: "/requirements/" # Location of package manifests
     schedule:
       interval: "daily"
-      time: "15:12"
+      time: "15:18"
       timezone: Asia/Kolkata
       
     # Behaviour of pull requests
