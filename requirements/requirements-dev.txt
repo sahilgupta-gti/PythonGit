@@ -3,7 +3,7 @@ attrs==21.4.0
     #   -c requirements/requirements.txt
     #   apiv2-client
     #   ddtrace
-babel==2.10.1
+babel==2.14.0
     # via sphinx
 backcall==0.2.0
     # via
