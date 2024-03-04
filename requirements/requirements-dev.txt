@@ -1,31 +1,31 @@
-attrs==23.2.0
+#attrs==23.2.0
     # via
     #   -c requirements/requirements.txt
     #   apiv2-client
     #   ddtrace
-babel==2.10.1
+#babel==2.10.1
     # via sphinx
-backcall==0.2.0
+#backcall==0.2.0
     # via
     #   -c requirements/requirements.txt
     #   ipython
-billiard==3.6.4.0
+#billiard==3.6.4.0
     # via
     #   -c requirements/requirements.txt
     #   celery
-celery==5.2.3
+#celery==5.2.3
     # via
     #   -c requirements/requirements.txt
     #   -r requirements/requirements.in
-certifi==2021.10.8
+#certifi==2021.10.8
     # via
     #   -c requirements/requirements.txt
     #   requests
-charset-normalizer==2.0.12
+#charset-normalizer==2.0.12
     # via
     #   -c requirements/requirements.txt
     #   requests
-click==8.1.2
+#click==8.1.2
     # via
     #   -c requirements/requirements.txt
     #   celery
